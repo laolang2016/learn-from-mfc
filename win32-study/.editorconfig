@@ -1,0 +1,13 @@
+root = true
+
+[*]
+guidelines = 120
+ 
+[*.{cpp,c,h}]
+charset = charset = utf-16le
+indent_style = space
+indent_size = 4
+end_of_line = lf
+trim_trailing_whitespace = true
+insert_final_newline = true
+tab_width = 4
